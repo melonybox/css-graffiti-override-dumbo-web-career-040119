@@ -12,7 +12,7 @@
   display: none;
 }
 
-div#wall #tag-4 {
+div#wall div.parent #tag-4 {
   display: none;
 }
 
